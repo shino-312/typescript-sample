@@ -94,4 +94,4 @@ globは`\"`で囲わないと、シェルによって展開されてしまうの
 
 ## Basic Syntax
 
-See [sample](./dist/index.ts)
+See [sample](./src/index.ts)
